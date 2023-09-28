@@ -1,6 +1,6 @@
 {
-  "name": "shellies-ng",
-  "version": "1.5.1",
+  "name": "shellies-ng-ul-support",
+  "version": "0.1.0",
   "description": "Handles communication with the next generation of Shelly devices",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,21 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexryd/node-shellies-ng.git"
+    "url": "git+https://github.com/jmsolomon2000/node-shellies-ng.git"
   },
   "keywords": [
     "shelly"
   ],
-  "author": "Alexander Rydén",
+  "author": "Alexander Rydén + Jared Solomon",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/alexryd/node-shellies-ng/issues"
+    "url": "https://github.com/jmsolomon2000/node-shellies-ng.git/issues"
   },
-  "homepage": "https://github.com/alexryd/node-shellies-ng#readme",
-  "funding": {
-    "type": "kofi",
-    "url": "https://ko-fi.com/alexryd"
-  },
+  "homepage": "https://github.com/jmsolomon2000/node-shellies-ng.git#readme",
   "devDependencies": {
     "@types/jest": "^28.1.2",
     "@typescript-eslint/eslint-plugin": "^5.28.0",

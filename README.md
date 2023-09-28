@@ -31,7 +31,7 @@ import {
   MdnsDeviceDiscoverer,
   Shellies,
   ShellyPlus1,
-} from 'shellies-ng';
+} from 'shellies-ng-ul-support';
 
 const shellies = new Shellies();
 
