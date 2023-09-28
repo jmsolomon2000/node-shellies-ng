@@ -11,7 +11,7 @@ import {
 } from '../components';
 
 export class ShellyPro2 extends Device {
-  static readonly model: string = 'SPSW-002XE16EU';
+  static readonly model: string = 'SPSW-202XE12UL';
   static readonly modelName: string = 'Shelly Pro 2';
 
   @component
